@@ -11,4 +11,5 @@ sources:
       - name: PLAYER_SALARIES_OUTPUT
       - name: TEAMS
       - name: TEAM_SALARIES
+      - name: TEAM_YEAR_BY_YEAR_STATS
       
