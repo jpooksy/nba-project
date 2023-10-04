@@ -10,4 +10,5 @@ sources:
       - name: PLAYER_GAME_LOGS
       - name: PLAYER_SALARIES_OUTPUT
       - name: TEAMS
+      - name: TEAM_SALARIES
       
