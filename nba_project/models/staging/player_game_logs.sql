@@ -20,7 +20,7 @@ renamed AS (
         GAME_DATE AS game_date,
         MATCHUP AS matchup,
         WL AS win_loss,
-        MIN AS game_duration_mins,
+        MIN AS mins_played,
         FGM AS field_goals_made,
         FGA AS field_goals_attempted,
         FG_PCT AS field_goal_pct,
