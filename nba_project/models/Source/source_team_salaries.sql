@@ -9,9 +9,9 @@ WITH source AS (
 ),
 renamed AS (
     SELECT
-        team as full_name,
-        total_cap as total_cap,
-        luxury_tax_bill as luxury_tax_bill
+        "Team" as full_name,
+        "Total Cap" as total_cap,
+        "Luxury Tax Bill" as luxury_tax_bill
     FROM
         source
 )
