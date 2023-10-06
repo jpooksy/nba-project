@@ -14,7 +14,7 @@ renamed AS (
         "abbreviation" as abbreviation,
         "nickname" as mascot,
         "city" as city,
-        "state" as state,
+        "state" as "state",
         "year_founded" as year_founded
     FROM
         source
